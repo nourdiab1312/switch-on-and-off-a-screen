@@ -26,7 +26,7 @@ Contributing:
 Contributions to this project are welcome! If you find a bug or have an idea for a new feature, please open an issue or submit a pull request.
 
 ## Video:
-- Check the following vedio to see the project simulation (video)[https://drive.google.com/file/d/1TGsZCbgqDVPGMSsKLWjNG9e22V_5nwCU/view?usp=sharing]
+- Check the following vedio to see the project simulation [video](https://drive.google.com/file/d/1TGsZCbgqDVPGMSsKLWjNG9e22V_5nwCU/view?usp=sharing)
 
 ## License:
 
