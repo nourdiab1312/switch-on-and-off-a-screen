@@ -1,6 +1,4 @@
-# switch-on-and-off-a-screen
-
-## Project Title: Power Switch Control Mode using Arduino
+# Project Title: Power Switch Control Mode using Arduino
 
 ## Purpose: 
 
