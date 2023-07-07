@@ -6,11 +6,11 @@ The purpose of this project is to create a simple implementation of the power sw
 
 ## Hardware Requirements:
 
-Arduino board (Uno, Nano, or similar)
-LED or LCD screen (or any device that can be controlled by a microcontroller)
-Button
-Breadboard or PCB for prototyping
-Jumper wires
+- Arduino board (Uno, Nano, or similar)
+- LED or LCD screen (or any device that can be controlled by a microcontroller)
+- Button
+- Breadboard or PCB for prototyping
+- Jumper wires
 
 ## Software Requirements:
 
