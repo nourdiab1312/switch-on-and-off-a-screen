@@ -28,7 +28,3 @@ Contributions to this project are welcome! If you find a bug or have an idea for
 ## License:
 
 This project is licensed under the MIT license. Feel free to use and modify the code as needed.
-
-
-
-This project is licensed under the MIT license. Feel free to use and modify the code as needed.
