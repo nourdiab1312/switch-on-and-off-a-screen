@@ -26,7 +26,8 @@ Contributing:
 Contributions to this project are welcome! If you find a bug or have an idea for a new feature, please open an issue or submit a pull request.
 
 ## Video:
-- Check the following vedio to see the project simulation [video](https://drive.google.com/file/d/1TGsZCbgqDVPGMSsKLWjNG9e22V_5nwCU/view?usp=sharing)
+- Check the following vedio to see the concept of turning on and off a mobile screen in this [video](https://drive.google.com/file/d/1TGsZCbgqDVPGMSsKLWjNG9e22V_5nwCU/view?usp=sharing)
+- The project on tinkercad and the simulation are available at the following [link](https://drive.google.com/file/d/1TGsZCbgqDVPGMSsKLWjNG9e22V_5nwCU/view?usp=sharing)
 
 ## License:
 
